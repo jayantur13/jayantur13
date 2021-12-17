@@ -7,7 +7,8 @@
 <p>
   I am <b>Jayant Navrange</b> from Raipur,India. I'm currently focused and working on Android App Development and casually work on Web projects too.Also, I like to watch anime, tv series and play video games. I've published some apps,check them out on <a href="https://play.google.com/store/apps/developer?id=InfernoTech">Google PlayStore</a>.
 </p
-  
+
+## Gif - Credit to the designer
 ## 🚧 WIP
 
 <!--
