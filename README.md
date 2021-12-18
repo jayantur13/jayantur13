@@ -13,7 +13,7 @@
   <img src="https://komarev.com/ghpvc/?username=jayantur13&label=Vistors+/Guests" />
 </p>
 
-![](https://github-readme-stats.vercel.app/api?username=jayantur13&theme=dracula&count_private=true&show_icons=true)[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jayantur13&theme=dracula)](https://github.com/jayantur13/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=jayantur13&theme=dracula&count_private=true&show_icons=true)&emsp;[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jayantur13&theme=dracula)](https://github.com/jayantur13/github-readme-stats)
 <hr>
 
 <h2 align="center">Get in touch ☎</h2><br />
