@@ -1,11 +1,11 @@
 <h2 align="center"><samp>Hi there 👋<samp></h2><br />
 
 <p align="center">
-<img width="50%" height="40%" src="https://i0.wp.com/thumbs.gfycat.com/NiceIdealisticHaddock-size_restricted.gif" />
+<img width="30%" height="40%" src="https://c.tenor.com/VjW9TmAUjwIAAAAC/gojo-jujutsu-kaisen.gif" />
 </p>
 
 <p align="center" text-align: justify>
-  <samp>I am <b>Jayant Navrange</b> from India.I'm currently focused and working on Android App Development and casually work on web projects too.I try to learn and to do new things currently Node, React, React Native have my attention.Also,I like to watch anime,tv series and play video games.If you need to talk to me I'll mention my social handles downside.I've published some apps,check them out on <a href="https://play.google.com/store/apps/developer?id=InfernoTech">Google PlayStore</a>.
+  <samp>I am <b>Jayant Navrange</b> from India.I'm currently learnining, focusing and working on backend and frontend things.I try to learn and to do new things currently NodeJS, ReactJS, NextJS, Python and Android(Java/Kotlin) have my attention.Apart from all this I like to watch anime,tv series and play video games.If you need to talk to me I'll mention my social handles downside.I've published some apps,check them out on <a href="https://play.google.com/store/apps/developer?id=InfernoTech">Google PlayStore</a>.
   </samp>
 </p>
 <hr>
@@ -26,6 +26,6 @@
 <a href="https://twitter.com/jayantur13"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
-> Gif-Gyfcat-Zenitsu-Demon Slayer
+> Gif-Tenor-Gojo Satoru
 
 
