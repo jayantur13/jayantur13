@@ -13,9 +13,9 @@
   <img src="https://komarev.com/ghpvc/?username=jayantur13&label=Welcome 👀&style=for-the-badge&color=yellow"/>
 </p>
 
-![Jayant's Github Stats](https://github-readme-stats.vercel.app/api?username=jayantur13&theme=yeblu&count_private=true&show_icons=true)&emsp;
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jayantur13&theme=yeblu&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jayantur13&theme=yeblu&layout=compact&langs_count=10)](https://github.com/jayantur13/github-readme-stats)
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![Jayant's Github Stats](https://github-readme-stats.vercel.app/api?username=jayantur13&theme=yeblu&count_private=true&show_icons=true)&emsp;
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jayantur13&theme=yeblu&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jayantur13&theme=yeblu&layout=compact&langs_count=10)](https://github.com/jayantur13/github-readme-stats)
 <hr>
  
 <h2 align="center">Get in touch ☎</h2><br />
