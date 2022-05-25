@@ -4,21 +4,21 @@
 <img src="https://c.tenor.com/VjW9TmAUjwIAAAAC/gojo-jujutsu-kaisen.gif"/>
 </p>
 
-<p align="center" text-align: justify>
+<h4 align="center" text-align: justify>
   <samp>I am <b>Jayant Navrange</b> from India.I'm currently learning, focusing and working on backend and frontend things.I try to learn and to do new things currently NodeJS, ReactJS, NextJS, Python and Android(Java/Kotlin) have my attention.Apart from all this I like to watch anime,tv series and play video games.If you need to talk to me I'll mention my social handles downside.I've published some apps,check them out on <a href="https://play.google.com/store/apps/developer?id=InfernoTech">Google PlayStore</a>.
   </samp>
-</p>
-<hr>
+</h4>
+
 <h2 align="center">
  My Stats 📈
 </h2>
 
-<h3 align="center">
+<p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jayantur13&theme=yeblu&count_private=true&show_icons=true" align = "center"/>
   <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=jayantur13&theme=yeblu&date_format=M%20j%5B%2C%20Y%5D" align = "center"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayantur13&theme=yeblu&layout=compact&langs_count=10" align = "center"/>
-</h3>
-<hr>
+</p>
+
  
 <h2 align="center">Get in touch ☎</h2><br />
 
