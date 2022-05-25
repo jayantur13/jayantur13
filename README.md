@@ -1,7 +1,7 @@
 <h2 align="center"><samp>Hi there 👋<samp></h2><br />
 
 <p align="center">
-<img width="30%" height="40%" src="https://c.tenor.com/VjW9TmAUjwIAAAAC/gojo-jujutsu-kaisen.gif" />
+<img src="https://c.tenor.com/VjW9TmAUjwIAAAAC/gojo-jujutsu-kaisen.gif"/>
 </p>
 
 <p align="center" text-align: justify>
@@ -9,15 +9,15 @@
   </samp>
 </p>
 <hr>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jayantur13&label=Welcome 👀&style=for-the-badge&color=yellow"/>
-</p>
+<h2 align="center">
+ My Stats 📈
+</h2>
 
-<p align="center">
+<h3 align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jayantur13&theme=yeblu&count_private=true&show_icons=true" align = "center"/>
   <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=jayantur13&theme=yeblu&date_format=M%20j%5B%2C%20Y%5D" align = "center"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayantur13&theme=yeblu&layout=compact&langs_count=10" align = "center"/>
-</p>
+</h3>
 <hr>
  
 <h2 align="center">Get in touch ☎</h2><br />
