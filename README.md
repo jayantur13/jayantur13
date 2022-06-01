@@ -1,7 +1,7 @@
 <h2 align="center"><samp>Hi there 👋<samp></h2><br />
 
 <p align="center">
-<img src="https://c.tenor.com/VjW9TmAUjwIAAAAC/gojo-jujutsu-kaisen.gif"/>
+<img src="https://www.icegif.com/wp-content/uploads/2021/10/icegif-444.gif"/>
 </p>
 
 <p align="center" text-align: justify>
@@ -30,6 +30,6 @@
 <a href="https://twitter.com/jayantur13"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
-> Gif-Tenor-Gojo Satoru
+> Gif-IceGif-Zenitsu-Demon Slayer
 
 
