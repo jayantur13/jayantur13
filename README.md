@@ -19,6 +19,12 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayantur13&theme=yeblu&layout=compact&langs_count=10" align = "center"/>
 </p>
 
+<h2 align="center">
+Get <a href="https://github.com/jayantur13/serverstate-minecraft">Minecraft state banner</a>
+</h2>
+
+<p align="center"><img src="https://serverstate-minecraft.vercel.app/api?srvAddress=play.primegames.net&srvType=bedrock" alt="minecraft-srv-state"></p>
+
  
 <h2 align="center">Get in touch ☎</h2><br />
 
