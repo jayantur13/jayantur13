@@ -5,7 +5,7 @@
 </p>
 
 <p align="center" text-align: justify>
-<samp>I am <b>Jayant Navrange</b> from India.I work in different technologies and like to watch anime,movies,tv series and play video games when I'm free.I had published some apps,watch this space <a href="https://play.google.com/store/apps/developer?id=InfernoTech">Google PlayStore</a>.Thanks for visiting.Connect with me using 👇 
+<samp>I am <b>Jayant Navrange</b> from India.I work in different technologies and like to watch anime,movies,tv series and play video games when I'm free.I've published some apps,watch this space <a href="https://play.google.com/store/apps/developer?id=InfernoTech">Google PlayStore</a>.Thanks for visiting.You can connect with me 👇 
 </samp>
 </p>
 
@@ -20,10 +20,10 @@
 </p>
 
 <h2 align="center">
-Get <a href="https://github.com/jayantur13/serverstate-minecraft">Minecraft state banner</a>
+Get <a href="https://github.com/jayantur13/serverstate-minecraft">Minecraft banner</a>
 </h2>
 
-<p align="center"><img src="https://serverstate-minecraft.vercel.app/api?srvAddress=play.primegames.net&srvType=bedrock" alt="minecraft-srv-state"></p>
+<p align="center"><img src="https://serverstate-minecraft.vercel.app/api?srvAddress=play.craftersmc.net&srvType=bedrock" alt="minecraft-srv-state"></p>
 
  
 <h2 align="center">Get in touch ☎</h2><br />
